@@ -1,2 +1,2 @@
 # Logo
-Identidade vizual do CSS Brasil =D
+Identidade visual do CSS Brasil =D
